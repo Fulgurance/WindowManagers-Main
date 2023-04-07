@@ -19,6 +19,11 @@
       "name": "Startup-Notification",
       "version": "0.12.0",
       "options": []
+    },
+    {
+      "name": "Xcb-Util-Cursor",
+      "version": "0.1.13",
+      "options": []
     }
   ],
   "options": []
