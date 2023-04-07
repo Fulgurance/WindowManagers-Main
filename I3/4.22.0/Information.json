@@ -1,0 +1,20 @@
+{
+  "port": "WindowManagers-Main",
+  "name": "I3",
+  "version": "4.22.0",
+  "architectures": ["x86_64"],
+  "description": "Tiling window manager completely written from scratch",
+  "website": "https://i3wm.org",
+  "downloadLinks": ["https://i3wm.org/downloads/i3-4.22.tar.xz"],
+  "md5sums": ["61c7787808344e2871079a9c93e751c2"],
+  "patchesLinks": [],
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Libxcb",
+      "version": "1.14.0",
+      "options": []
+    }
+  ],
+  "options": []
+}
