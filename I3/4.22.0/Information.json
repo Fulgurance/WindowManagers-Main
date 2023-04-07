@@ -14,6 +14,11 @@
       "name": "Libxcb",
       "version": "1.14.0",
       "options": []
+    },
+    {
+      "name": "Startup-Notification",
+      "version": "0.12.0",
+      "options": []
     }
   ],
   "options": []
