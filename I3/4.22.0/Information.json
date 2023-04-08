@@ -44,6 +44,11 @@
       "name": "Libxkbcommon",
       "version": "1.3.0",
       "options": []
+    },
+    {
+      "name": "Yajl",
+      "version": "2.1.0",
+      "options": []
     }
   ],
   "options": []
