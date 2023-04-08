@@ -49,6 +49,11 @@
       "name": "Yajl",
       "version": "2.1.0",
       "options": []
+    },
+    {
+      "name": "Pcre2",
+      "version": "10.37.0",
+      "options": []
     }
   ],
   "options": []
