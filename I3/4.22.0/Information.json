@@ -39,6 +39,11 @@
       "name": "Xcb-Util-Xrm",
       "version": "1.3.0",
       "options": []
+    },
+    {
+      "name": "Libxkbcommon",
+      "version": "1.3.0",
+      "options": []
     }
   ],
   "options": []
