@@ -54,6 +54,11 @@
       "name": "Pcre2",
       "version": "10.37.0",
       "options": []
+    },
+    {
+      "name": "Cairo",
+      "version": "1.17.4",
+      "options": []
     }
   ],
   "options": []
