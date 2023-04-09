@@ -69,11 +69,6 @@
       "name": "Libev",
       "version": "4.33.0",
       "options": []
-    },
-    {
-      "name": "Dejavu-Fonts-Ttf",
-      "version": "2.37.0",
-      "options": []
     }
   ],
   "options": []
