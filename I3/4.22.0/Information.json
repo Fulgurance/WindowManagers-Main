@@ -2,7 +2,9 @@
   "port": "WindowManagers-Main",
   "name": "I3",
   "version": "4.22.0",
-  "architectures": ["x86_64"],
+  "architectures": [
+    "x86_64"
+  ],
   "description": "Tiling window manager completely written from scratch",
   "website": "https://i3wm.org",
   "installedFiles": [],
@@ -55,7 +57,9 @@
     {
       "name": "Pango",
       "version": "1.48.9",
-      "options": ["Cairo"]
+      "options": [
+        "Cairo"
+      ]
     },
     {
       "name": "Graphite2",
