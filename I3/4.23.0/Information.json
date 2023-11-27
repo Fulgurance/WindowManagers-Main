@@ -1,0 +1,81 @@
+{
+  "port": "WindowManagers-Main",
+  "name": "I3",
+  "version": "4.23.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Tiling window manager completely written from scratch",
+  "website": "https://i3wm.org",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "name": "Libxcb",
+      "version": ">=1.14.0",
+      "options": []
+    },
+    {
+      "name": "Startup-Notification",
+      "version": ">=0.12.0",
+      "options": []
+    },
+    {
+      "name": "Xcb-Util-Cursor",
+      "version": ">=0.1.3",
+      "options": []
+    },
+    {
+      "name": "Xcb-Util-Keysyms",
+      "version": ">=0.4.0",
+      "options": []
+    },
+    {
+      "name": "Xcb-Util-Wm",
+      "version": ">=0.4.1",
+      "options": []
+    },
+    {
+      "name": "Xcb-Util-Xrm",
+      "version": ">=1.3.0",
+      "options": []
+    },
+    {
+      "name": "Libxkbcommon",
+      "version": ">=1.3.0",
+      "options": []
+    },
+    {
+      "name": "Yajl",
+      "version": ">=2.1.0",
+      "options": []
+    },
+    {
+      "name": "Pcre2",
+      "version": ">=10.37.0",
+      "options": []
+    },
+    {
+      "name": "Pango",
+      "version": ">=1.48.9",
+      "options": ["Cairo"]
+    },
+    {
+      "name": "Graphite2",
+      "version": ">=1.3.14",
+      "options": []
+    },
+    {
+      "name": "Libev",
+      "version": ">=4.33.0",
+      "options": []
+    },
+    {
+      "name": "Dejavu-Lgc-Fonts-Ttf",
+      "version": ">=2.37.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}
